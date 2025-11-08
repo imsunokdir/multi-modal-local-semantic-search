@@ -30,6 +30,14 @@ Follow these steps to set up and run the application on your local machine.
 
 Ensure you have Python (3.8+) and a virtual environment set up.
 
+## 🧰 Requirements
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ```bash
 # Create and activate a virtual environment
 python -m venv venv

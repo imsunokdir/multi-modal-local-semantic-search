@@ -1,0 +1,17 @@
+# Python cache and dependencies
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Vector Database and Model Files (Large & Generated)
+text_docs.index
+image_docs.index
+filenames.npy
+image_filenames.npy
+index_meta.pkl
+
+# Streamlit Cache
+.streamlit/
+
+# Environment/Operating System files
+.DS_Store
